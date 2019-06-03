@@ -1,0 +1,25 @@
+{
+  "name": "treat-js-sdk",
+  "version": "1.0.0",
+  "description": "JavaScript SDK used to collect experiment information etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uoft-treat/treat-js-sdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uoft-treat/treat-js-sdk/issues"
+  },
+  "homepage": "https://github.com/uoft-treat/treat-js-sdk#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/preset-typescript": "^7.3.3"
+  }
+}
